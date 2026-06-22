@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Weather App</string>
+
+    <string name="cities_title">Cities</string>
+    <string name="cities_error_message">Couldn\'t load cities</string>
+    <string name="retry">Retry</string>
+
+    <string name="detail_error_message">Couldn\'t load the forecast</string>
+    <string name="back">Back</string>
+
+    <string name="current_weather_title">Current weather</string>
+    <string name="forecast_title">7-day forecast</string>
+
+    <string name="feels_like_label">Feels like</string>
+    <string name="rain_chance_label">Rain chance</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="air_pressure_label">Air pressure</string>
+    <string name="wind_label">Wind</string>
+
+    <string name="temperature_celsius">%1$.0f°C</string>
+    <string name="percent">%1$d%%</string>
+    <string name="wind_value">%1$s, %2$.0f km/h</string>
+    <string name="temperature_range">%1$.0f° / %2$.0f°C</string>
 </resources>
